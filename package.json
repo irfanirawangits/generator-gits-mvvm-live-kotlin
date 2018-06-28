@@ -1,0 +1,35 @@
+{
+  "name": "generator-mvvm-live-kotlin",
+  "version": "1.0.0",
+  "description": "Ini adalah starter kit android mvvm live kotlin (AAC)",
+  "main": "app/index.js",
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm --version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanirawangits/generator-gits-mvvm-live-kotlin.git"
+  },
+  "keywords": [
+    "gits",
+    "gits",
+    "indonesia",
+    "android",
+    "mvvm",
+    "livedata",
+    "kotlin",
+    "framework",
+    "starter kit",
+    "android starter kit"
+  ],
+  "author": "Irfan Irawan Sukirman <dadang.kotz@gmail.com> (http://irfan-berasbdg.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irfanirawangits/generator-gits-mvvm-live-kotlin/issues"
+  },
+  "homepage": "https://github.com/irfanirawangits/generator-gits-mvvm-live-kotlin#readme"
+}
